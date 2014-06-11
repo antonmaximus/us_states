@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+*_bkup*
+us_states.csv
+csv_to_json.py
+*.numbers
